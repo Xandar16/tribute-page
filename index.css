@@ -1,5 +1,5 @@
 html {
-  background: linear-gradient(90deg, #000000, #AA0000)
+  background: linear-gradient(90deg, #000000, #AA0000);
 }
 
 
@@ -13,8 +13,10 @@ html {
 }
 #main {
   font-family: 'Oswald', sans-serif;
-  color: #443f3f;
-  text-align: center
+  color: #8b8585;
+  text-align: center;
+  margin-bottom: 50px;
+  
 
 
 }
@@ -33,9 +35,11 @@ img {
     font-style: italic;
 }
     
-
 #list {
   list-style-position: inside;
+}
+#tribute-link {
+  color: #3973aa;
 }
 
 
